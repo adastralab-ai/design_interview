@@ -64,5 +64,4 @@ We want to add client-side caching:
 - Clients store loaded messages in local storage (IndexedDB/SQLite)
 - The system must guarantee **eventual consistency**
 
-Design a reliable and efficient solution.
-Provide a concrete operational plan.
+Think about how to make a reliable and efficient solution with a concrete operational plan.
